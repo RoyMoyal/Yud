@@ -28,7 +28,6 @@ public class Time {
     }
 
     public static void main(String[] args) {
-        Time t=new Time(14,54);
-        t.setHour(15);
+       
     }
 }
